@@ -21557,7 +21557,7 @@
 	                _react2.default.createElement(
 	                    'h1',
 	                    { className: _app2.default.title },
-	                    'To Do List'
+	                    'ToDo List'
 	                ),
 	                _react2.default.createElement(_ToDoList2.default, { ToDoStore: this.stores.ToDoStore })
 	            );

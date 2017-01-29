@@ -16,7 +16,7 @@ class ToDoApp extends React.Component{
 
     render() {
         return <div className={style.todoContainer}>
-                    <h1 className={style.title}>To Do List</h1>
+                    <h1 className={style.title}>ToDo List</h1>
                     <ToDoList ToDoStore={this.stores.ToDoStore} />
                 </div>;
     }

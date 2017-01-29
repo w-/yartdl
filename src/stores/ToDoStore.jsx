@@ -18,4 +18,4 @@ class ToDoStore {
 	}
 }
 
-export default ToDoStore
+export default ToDoStore;
