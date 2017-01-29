@@ -25651,7 +25651,7 @@
 	                { className: '', style: this.props.style },
 	                _react2.default.createElement('input', { type: 'text',
 	                    placeholder: 'Type a ToDo item here',
-	                    autofocus: true,
+	                    autoFocus: true,
 	                    className: _toDoList2.default.toDoInput,
 	                    onChange: this.handleValChange,
 	                    value: this.state.todoVal,
