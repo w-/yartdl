@@ -32,7 +32,7 @@ class ToDoInput extends React.Component{
             <div className="" style={this.props.style}>
                 <input type="text"
                         placeholder="Type a ToDo item here"
-                        autofocus={true}
+                        autoFocus={true}
                         className={style.toDoInput}
                         onChange={this.handleValChange}
                         value={this.state.todoVal}
