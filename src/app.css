@@ -1,0 +1,20 @@
+
+.todoContainer{	
+	width: 450px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+	border: 1px solid silver;
+	border-radius: 5px;
+	
+}
+
+.title{
+	margin: 0;
+	padding: 25px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background: darkslategrey;
+	color: white;
+}
